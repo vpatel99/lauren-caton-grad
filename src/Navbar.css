@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3d3d3d;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar-options {
+  display: flex;
+}
+
+.navbar-header {
+  color: white;
+}
+
+.navbar__option {
+  color: white;
+  margin-left: 15px;
+}
