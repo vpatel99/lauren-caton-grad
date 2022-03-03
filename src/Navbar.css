@@ -3,19 +3,23 @@
   justify-content: space-between;
   align-items: center;
   background-color: #3d3d3d;
-  padding-left: 15px;
-  padding-right: 15px;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
 .navbar-options {
   display: flex;
+  padding-right: 10%;
 }
 
 .navbar-header {
   color: white;
+  padding-left: 10%;
 }
 
 .navbar__option {
   color: white;
-  margin-left: 15px;
+  margin-right: 14px;
 }

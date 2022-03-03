@@ -1,34 +1,4 @@
-* {
-  font-family: "Montserrat", sans-serif;
-}
-
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.page__white {
-  min-height: 100vh;
-  background-color: white;
-  text-align: center;
-  padding-left: 10%;
-  padding-right: 10%;
-}
-
-.page__offWhite {
-  min-height: 100vh;
-  background-color: #f7f7f7;
-  text-align: center;
-  padding-left: 10%;
-  padding-right: 10%;
-}
-
-.page__title {
-  padding-top: 5%;
-  padding-bottom: 5%;
-}
-.box {
+.article__box {
   width: 30%;
   height: inherit;
   padding: 4%;
@@ -72,29 +42,20 @@
   background: #1397f1;
   text-decoration: none;
 }
-.btn-blue {
-  background: #1397f1;
-  text-decoration: none;
-}
-
-.btn-purple {
-  background: #0f124b;
-  text-decoration: none;
-}
-.component__link {
+.about__link {
   text-decoration: none;
   margin-right: 2.5%;
   margin-left: 2.5%;
   font-size: 2vh;
 }
 
-.component__heading {
+.article__heading {
   font-size: 1.3rem;
   line-height: 24px;
   font-weight: 600;
 }
 
-.component__description {
+.article__description {
   font-size: 1rem;
   font-weight: normal;
   line-height: 24px;

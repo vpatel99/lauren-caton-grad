@@ -1,16 +1,76 @@
 import React from "react";
 import "./Navbar.css";
+import { Link } from "react-scroll";
 
 function Navbar() {
   return (
     <div className="navbar">
       <h1 className="navbar-header">Lauren Caton</h1>
       <div className="navbar-options">
-        <div className="navbar__option">About</div>
-        <div className="navbar__option">Research</div>
-        <div className="navbar__option">Tools</div>
-        <div className="navbar__option">Media</div>
-        <div className="navbar__option">Projects</div>
+        <div className="navbar__option">
+          <Link
+            activeClass="active"
+            to="About"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+          >
+            About
+          </Link>
+        </div>
+
+        <div className="navbar__option">
+          <Link
+            activeClass="active"
+            to="Research"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+          >
+            Research
+          </Link>
+        </div>
+
+        <div className="navbar__option">
+          <Link
+            activeClass="active"
+            to="Tools"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+          >
+            Tools
+          </Link>
+        </div>
+
+        <div className="navbar__option">
+          <Link
+            activeClass="active"
+            to="Media"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+          >
+            Media
+          </Link>
+        </div>
+
+        <div className="navbar__option">
+          <Link
+            activeClass="active"
+            to="Projects"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+          >
+            Projects
+          </Link>
+        </div>
       </div>
     </div>
   );

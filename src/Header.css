@@ -1,0 +1,24 @@
+.header {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 500px;
+  background: linear-gradient(#4b9cd3, #00594c);
+  font-weight: 600;
+  height: 100vh;
+}
+
+.header > h1 {
+  font-size: clamp(1vh, 4rem, 7rem);
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  line-height: 73px;
+}
+.subheader {
+  font-size: clamp(10px, 1.45rem, 4rem);
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  line-height: 37px;
+}
