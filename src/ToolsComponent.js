@@ -1,5 +1,4 @@
 import React from "react";
-import "./ToolsComponent.css";
 import "./App.css";
 
 function ToolsComponent({ isBlue, heading, learnMoreLink }) {
