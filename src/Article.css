@@ -1,6 +1,4 @@
 .article__box {
-  width: 30%;
-  height: inherit;
   padding: 4%;
   margin-bottom: 5%;
   text-align: left;
@@ -15,16 +13,16 @@
   border: 10px solid #0f124b;
 }
 
-.component__buttons {
+.article__buttons {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 
 .btn {
-  width: 120px;
+  width: 170px;
   height: 60px;
   display: flex;
   align-items: center;
@@ -59,5 +57,4 @@
   font-size: 1rem;
   font-weight: normal;
   line-height: 24px;
-  padding: 5%;
 }

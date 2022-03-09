@@ -7,23 +7,56 @@ function About() {
       <div class="about__content">
         <div class="about__text">
           <p>
-            I am a current PhD student in Maternal and Child Health/ Health
-            Policy at the University of North Carolina at Chapel Hill’s Gillings
-            School of Global Public Health. My interests lie in state-level
-            policy levers for expanding treatment access and recovery supports
-            for pregnant and parenting persons with substance use disorders.
+            {"I’m currently a "}
+            <a
+              href="https://sph.unc.edu/mch/center-of-excellence/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {"Center of Excellence Fellow"}
+            </a>
+            {` in the Department of Maternal and Child Health, where I work on the
+            Improving Community Outcomes for Maternal and Child Health (ICO4MCH)
+            initiative, which aims to expand evidence-based practice adoption to
+            improve county-level birth outcomes and reduce maternal mortality. I
+            additionally serve on the evaluation team for the department’s
+            Maternal Health Learning & Innovation Center (MHLIC).`}
           </p>
           <p>
-            Prior, I worked at the National Association of State and Alcohol
-            Drug Abuse Directors, where I oversaw the women’s and youth research
-            and technical assistance portfolio. Stanford University’s Center for
-            Behavioral Health Sciences and Implementation Research (CBHSIR) on a
-            state-wide medications for opioid use disorder (MOUD) expansion
-            project. I’ve also conducted research at the University of
-            California, San Francisco (UCSF)’s Institute for Health Policy
-            Studies and University of California, Berkeley’s Sexual Health and
-            Reproductive Equity (SHARE) group where I evaluated adolescent
-            sexual health programming and pregnancy acceptability, respectively.
+            {"Prior, I worked at the "}
+            <a href="https://nasadad.org/" target="_blank" rel="noreferrer">
+              {"National Association of State and Alcohol Drug Abuse Directors"}
+            </a>
+            {`, where I oversaw the women’s and youth research and technical
+            assistance portfolio. Stanford University’s `}
+            <a
+              href="https://med.stanford.edu/cbhsir.html"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {
+                "Center for Behavioral Health Sciences and Implementation Research (CBHSIR)"
+              }
+            </a>
+            {` on a state-wide medications for opioid use disorder (MOUD) expansion project. I’ve also conducted research at the University of California, San Francisco (UCSF)’s `}
+            <a
+              href="https://healthpolicy.ucsf.edu/philip-r-lee-institute-health-policy-studies"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {"Institute for Health Policy Studies"}
+            </a>
+            {" and University of California, Berkeley’s "}
+            <a
+              href="https://www.share.berkeley.edu/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {"Sexual Health and Reproductive Equity (SHARE)"}
+            </a>
+            {
+              " group where I evaluated adolescent sexual health programming and pregnancy acceptability, respectively."
+            }
           </p>
           <p>
             I hold a BS in Nutritional Sciences & Toxicology from the University

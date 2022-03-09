@@ -8,13 +8,13 @@
 
 .research__title {
   padding-top: 5%;
-  padding-bottom: 5%;
 }
 
 .research__heading {
   font-weight: 500;
   font-size: 1.5rem;
   font-style: italic;
+  padding-top: 5%;
   padding-bottom: 2%;
   text-align: left;
   text-decoration: underline;

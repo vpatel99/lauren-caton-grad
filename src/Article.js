@@ -13,7 +13,7 @@ function Article({
     <div className={"article__box " + (isBlue ? "blue" : "purple")}>
       <h1 className={"article__heading"}>{heading}</h1>
       <h1 className={"article__description"}>{description}</h1>
-      <div class="about__buttons">
+      <div class="article__buttons">
         <a
           class="about__link"
           href={learnMoreLink}
