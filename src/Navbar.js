@@ -1,12 +1,13 @@
 import React from "react";
 import "./Navbar.css";
+import "./App.css";
 import { Link } from "react-scroll";
 
 function Navbar() {
   return (
     <div className="navbar">
-      <h1 className="navbar-header">Lauren Caton</h1>
-      <div className="navbar-options">
+      <h1 className="navbar-header animation">Lauren Caton</h1>
+      <div className="navbar-options animation">
         <div className="navbar__option">
           <Link
             activeClass="active"

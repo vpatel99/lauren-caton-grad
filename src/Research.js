@@ -57,9 +57,10 @@ function Research() {
         ></Article>
         <Article
           isBlue={false}
-          heading="COVID-19 Adaptations in the Care of Patients with Opioid Use Disorder: a Survey of California Primary Care Clinics"
-          description="With the onset of the COVID-19 crisis, many federal agencies relaxed policies regulating opioid use disorder treatment. The impact of these changes has been minimally documented. The abrupt nature of these shifts provides a naturalistic opportunity to examine adaptations for opioid use disorder treatment in primary care."
-          learnMoreLink="https://doi.org/10.1007/s11606-020-06436-3"
+          heading="Desire, Acceptability, and Expected Resolution: A Latent Class Analysis of Current
+          Pregnancy Orientation in the United States. Perspectives on sexual and reproductive health. In Press"
+          description="Scant research has examined latent and contextual dimensions of pregnancy intentions, conventionally classifying unintended pregnancies as mistimed (wanted later) or unwanted (not wanted at all). Being at risk of mistimed pregnancy likely encompasses a broad spectrum of emotions and expectations regarding pregnancy and merits further exploration."
+          learnMoreLink="https://pubmed.ncbi.nlm.nih.gov/35156298/"
         ></Article>
       </div>
     </div>

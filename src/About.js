@@ -73,12 +73,43 @@ function About() {
           <div class="btn btn-contact">Contact</div>
         </a>
         <a
-          href="https://drive.google.com/file/d/1e7YU98bRaP-rGkBUkzSFszSMGb8ZSJX4/view"
+          href="https://drive.google.com/file/d/15Xx08MlCRmLu7uDXWA5arKaQxfEdssQp/view"
           target="_blank"
           rel="noreferrer"
           class="about__link"
         >
           <div class="btn btn-cv">CV</div>
+        </a>
+      </div>
+
+      <div class="icons_container">
+        <a
+          href="https://www.researchgate.net/profile/Lauren-Caton"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img src="ResearchGate.png" alt="Research Gate link"></img>
+        </a>
+        <a
+          href="https://scholar.google.com/citations?user=G_osL0oAAAAJ&hl=en"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img src="google.png" alt="Google Scholar link"></img>
+        </a>
+        <a
+          href="https://www.linkedin.com/in/lauren-caton-8b21295a"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img src="link.png" alt="LinkedIn link"></img>
+        </a>
+        <a
+          href="https://twitter.com/laurenlcaton?lang=en"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img src="124021.png" alt="Twitter link"></img>
         </a>
       </div>
     </div>

@@ -16,7 +16,7 @@ function Media() {
         <MediaComponent
           isBlue={false}
           heading="Austin American Statesman"
-          description="Jane Doe case reveals Texas’ glaring weakness"
+          description="Investigative journalism research assistant for “We Don’t Heal from It: Investigating Big Horn County’s Criminal Prosecutions of Alcohol in Pregnancy"
           learnMoreLink="https://www.statesman.com/news/20171115/commentary-how-jane-doe-case-reveals-texas-glaring-weakness"
         ></MediaComponent>
         <MediaComponent

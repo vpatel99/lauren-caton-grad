@@ -25,7 +25,7 @@ function Projects() {
           isBlue={true}
           heading="Rewire News Group"
           learnMoreLink="https://rewirenewsgroup.com/multimedia/podcast/the-breach-season-4-montana-e1/"
-          description="Neonatal Abstinence Syndrome concepts article for Healthcare Huddle"
+          description="Investigative journalism research assistant for “We Don’t Heal from It: Investigating Big Horn County’s Criminal Prosecutions of Alcohol in Pregnancy”"
           pubDate="August 2018"
         ></ProjectsComponent>
       </div>
