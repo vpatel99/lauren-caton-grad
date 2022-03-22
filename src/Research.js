@@ -45,6 +45,12 @@ function Research() {
           description="With the onset of the COVID-19 crisis, many federal agencies relaxed policies regulating opioid use disorder treatment. The impact of these changes has been minimally documented. The abrupt nature of these shifts provides a naturalistic opportunity to examine adaptations for opioid use disorder treatment in primary care."
           learnMoreLink="https://doi.org/10.1007/s11606-020-06436-3"
         ></Article>
+        <Article
+          isBlue={true}
+          heading="The Integrating Medications for Addiction Treatment (IMAT) Index: A measure of capability at the organizational level"
+          description="Primary care provides a treatment opportunity for many persons with opioid use disorder (OUD). The push to integrate and expand reach and adoption of medications for opioid use disorder (MOUD) within primary care has been a major focus of national, state and health systems endeavors. To guide high capability MOUD practice, we introduce the Integrating Medications for Addiction Treatment (IMAT) Index. The research team has developed IMAT along similar lines to other organizational measures of integrated services capability. We present the development and validation of the measure, and suggest its applicability for systems and organizations, as well as for process improvement and implementation research."
+          learnMoreLink="https://doi.org/10.1016/j.jsat.2021.108395"
+        ></Article>
       </div>
       <div class="research__heading">III. Maternal and Child Health</div>
       <div class="container">
